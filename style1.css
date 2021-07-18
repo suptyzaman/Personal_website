@@ -1,0 +1,84 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hlw{
+    background-image: url("images1/po.jpg") !important;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.first{
+
+    width: 45%;
+    float: left;
+    margin: 2.5%;
+    height: 300px;
+    max-height: auto;
+    
+    
+}
+.first img {
+    width: 100%;
+    height: 300px;
+    max-height: auto;
+
+}
+
+.button{
+    background-color: salmon;
+    color: seashell;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: center;
+    font-size: 36px;
+    margin-top: 5%;
+    margin-bottom: 2px ;
+}
+.su{
+    
+    float: left;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+
+}
+.su img{
+    width: 30%;
+    margin: 1%;
+    
+}
+.sup{
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 34pxs;
+}
+
+
+footer {
+        text-align: center;
+        background-color: palevioletred;
+        color: papayawhip;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+        
+        max-height: auto;
+        
+
+    }
+        
+    
+
+    
+
+
+    
+    
+
+
